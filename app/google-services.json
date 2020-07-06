@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301329489071",
+    "firebase_url": "https://android-kds-388ac.firebaseio.com",
+    "project_id": "android-kds-388ac",
+    "storage_bucket": "android-kds-388ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301329489071:android:400bf0fa61e8ae03f1885a",
+        "android_client_info": {
+          "package_name": "com.project.kdskitchenette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301329489071-e371vuitpucmmf0slot5caov1a10f63d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfp6bA9dsK5u7a0u7b4-DLmPkpigMhhNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301329489071-e371vuitpucmmf0slot5caov1a10f63d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
